@@ -5,7 +5,7 @@ import arjun from "../../Assets/arjun-sharma.svg";
 import simran from "../../Assets/simran.svg";
 import karthik from "../../Assets/karthik.svg";
 import ranjit from "../../Assets/ranjit.svg";
-import tanya from "../../Assets/tanya.svg";
+import tanya from "../../Assets/Tanya.svg";
 import sonia from "../../Assets/sonia.svg";
 import sameer from "../../Assets/sameer.svg";
 import farah from "../../Assets/farah.svg";
