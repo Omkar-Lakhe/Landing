@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 import {HalfDonutChart} from "./HalfDonutChart";
-import { Tabs } from "./tabs";
+import { Tabs } from "./Tabs";
 import popup from "../../Assets/popup.png"
 import { FullDonutChart } from "./FullDonutChart";
 
